@@ -7,28 +7,28 @@ public class Test3 {
 	
 	@Test
 	public void test() {
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Mohapatra");
-		Reporter.log("Mohapatra");
-		Reporter.log("Mohapatra");
-		Reporter.log("Mohapatra");
-		Reporter.log("Mohapatra");Reporter.log("Mohapatra");Reporter.log("Mohapatra");
-		Reporter.log("Mohapatra");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Mohapatra", true);
+		Reporter.log("Mohapatra", true);
+		Reporter.log("Mohapatra", true);
+		Reporter.log("Mohapatra", true);
+		Reporter.log("Mohapatra", true);Reporter.log("Mohapatra", true);Reporter.log("Mohapatra", true);
+		Reporter.log("Mohapatra", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
 	}
 
 }

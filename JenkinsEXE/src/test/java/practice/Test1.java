@@ -7,21 +7,21 @@ public class Test1 {
 	
 	@Test
 	public void test() {
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Shiba");
-		Reporter.log("Hiii");
-		Reporter.log("Hiii");
-		Reporter.log("Shiba");
-		Reporter.log("Shiba");
-		Reporter.log("Shiba");
-		Reporter.log("Shiba");
-		Reporter.log("Shiba");
-		Reporter.log("Shiba");Reporter.log("Shiba");Reporter.log("Shiba");Reporter.log("Shiba");
-		Reporter.log("Shiba");
-		Reporter.log("Shiba");
+		Reporter.log("Hiii", true);;
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Hiii", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);Reporter.log("Shiba", true);Reporter.log("Shiba", true);Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);
+		Reporter.log("Shiba", true);
 	}
 
 }
