@@ -7,11 +7,11 @@ public class Test4 {
 	
 	@Test
 	public void test() {
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
 		Reporter.log("Litan");
 		Reporter.log("Litan");
 		Reporter.log("Litan");
@@ -19,16 +19,16 @@ public class Test4 {
 		Reporter.log("Litan");
 		Reporter.log("Litan");
 		Reporter.log("Litan");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
-		System.out.println("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
+		Reporter.log("Hiii");
 	}
 }
