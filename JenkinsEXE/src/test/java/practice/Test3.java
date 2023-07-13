@@ -13,12 +13,12 @@ public class Test3 {
 		System.out.println("Hiii");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");Reporter.log("Soumya");Reporter.log("Soumya");
-		Reporter.log("Soumya");
+		Reporter.log("Mohapatra");
+		Reporter.log("Mohapatra");
+		Reporter.log("Mohapatra");
+		Reporter.log("Mohapatra");
+		Reporter.log("Mohapatra");Reporter.log("Mohapatra");Reporter.log("Mohapatra");
+		Reporter.log("Mohapatra");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
 		System.out.println("Hiii");

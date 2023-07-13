@@ -11,17 +11,17 @@ public class Test1 {
 		System.out.println("Hiii");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
-		Reporter.log("Soumya");
+		Reporter.log("Shiba");
 		System.out.println("Hiii");
 		System.out.println("Hiii");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");Reporter.log("Soumya");Reporter.log("Soumya");Reporter.log("Soumya");
-		Reporter.log("Soumya");
-		Reporter.log("Soumya");
+		Reporter.log("Shiba");
+		Reporter.log("Shiba");
+		Reporter.log("Shiba");
+		Reporter.log("Shiba");
+		Reporter.log("Shiba");
+		Reporter.log("Shiba");Reporter.log("Shiba");Reporter.log("Shiba");Reporter.log("Shiba");
+		Reporter.log("Shiba");
+		Reporter.log("Shiba");
 	}
 
 }
