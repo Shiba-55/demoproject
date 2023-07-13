@@ -21,6 +21,7 @@ public class Test2 {
 		Reporter.log("Shankar", true);
 		Reporter.log("Shankar", true);
 		Reporter.log("Shankar", true);
+		Reporter.log("****", true);
 		Reporter.log("Hiii", true);
 		Reporter.log("Hiii", true);
 		Reporter.log("Hiii", true);
